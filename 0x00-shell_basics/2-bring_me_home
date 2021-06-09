@@ -1,2 +1,2 @@
-#!/bin/bash\n
-echo "cd /"
+#!/bin/bash
+echo "$(cd)"
