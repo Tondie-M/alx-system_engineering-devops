@@ -1,0 +1,1 @@
+This repo contains scripts that are used in shell
