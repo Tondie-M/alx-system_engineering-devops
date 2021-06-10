@@ -1,0 +1,1 @@
+0-iam_betty file has a script that changes the current user to betty
