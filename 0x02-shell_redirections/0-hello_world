@@ -1,1 +1,2 @@
-Wehnfj
+#!bin/bash
+echo "Hello, World"
